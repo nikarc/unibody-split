@@ -7,3 +7,6 @@
 [submodule "nice-nano-kicad"]
 	path = nice-nano-kicad
 	url = git@github.com:bstiq/nice-nano-kicad.git
+[submodule "kbd"]
+	path = kbd
+	url = git@github.com:foostan/kbd.git
