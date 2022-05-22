@@ -3,4 +3,5 @@
   (lib (name "nice-nano-kicad")(type "KiCad")(uri "${KIPRJMOD}/nice-nano-kicad")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "switches")(type "KiCad")(uri "${KIPRJMOD}/switches.pretty")(options "")(descr ""))
 )
