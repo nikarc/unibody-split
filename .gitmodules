@@ -10,3 +10,6 @@
 [submodule "kbd"]
 	path = kbd
 	url = git@github.com:foostan/kbd.git
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = git@github.com:Digi-Key/digikey-kicad-library.git
