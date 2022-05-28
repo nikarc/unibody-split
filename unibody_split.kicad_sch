@@ -3030,7 +3030,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 195.1482 97.8154 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 178.435 102.235 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap" (id 2) (at 178.435 102.235 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 178.435 102.235 0)
@@ -3477,7 +3477,7 @@
       (reference "MX28") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-0000628a8e1b"
-      (reference "MX29") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX29") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-2U-Hotswap")
     )
     (path "/00000000-0000-0000-0000-00006286915c"
       (reference "MX30") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
