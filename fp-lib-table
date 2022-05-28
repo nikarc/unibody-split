@@ -6,4 +6,5 @@
   (lib (name "switches")(type "KiCad")(uri "${KIPRJMOD}/switches.pretty")(options "")(descr ""))
   (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
   (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/SparkFun-KiCad-Libraries/Footprints/Connectors.pretty")(options "")(descr ""))
+  (lib (name "MountingHole")(type "KiCad")(uri "${KIPRJMOD}/MountingHole.pretty")(options "")(descr ""))
 )
