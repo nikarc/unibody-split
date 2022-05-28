@@ -3178,7 +3178,7 @@
     (uuid 0b819230-8318-4e3a-9e01-b696526ebe96)
     (property "Reference" "S1" (id 0) (at 48.26 92.71 0))
     (property "Value" "EVP-AWBD2A" (id 1) (at 48.26 95.25 0))
-    (property "Footprint" "switches:SW_EVP-AWBD2A" (id 2) (at 48.26 100.33 0)
+    (property "Footprint" "random-keyboard-parts:SKQG-1155865" (id 2) (at 48.26 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 48.26 100.33 0)
@@ -3528,7 +3528,7 @@
       (reference "OL1") (unit 1) (value "OLED") (footprint "kbd:OLED_v2")
     )
     (path "/0b819230-8318-4e3a-9e01-b696526ebe96"
-      (reference "S1") (unit 1) (value "EVP-AWBD2A") (footprint "switches:SW_EVP-AWBD2A")
+      (reference "S1") (unit 1) (value "EVP-AWBD2A") (footprint "random-keyboard-parts:SKQG-1155865")
     )
     (path "/00000000-0000-0000-0000-00006284d38e"
       (reference "U1") (unit 1) (value "nice_nano") (footprint "nice-nano-kicad:nice_nano")
